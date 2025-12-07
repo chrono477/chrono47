@@ -1,70 +1,90 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
-<p align="left">
-  <a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-Hi, I'm <b>Chrono</b>, a Red Teamer and Offensive Security enthusiast from Earth 🌍.  
-I specialize in **ethical hacking, penetration testing, exploit development, and adversarial attack simulation**.
-
-I'm obsessed with breaking systems to make them stronger, analyzing vulnerabilities, and building attack chains.  
-When I’m not pwning boxes, I enjoy strategy games, chess ♘, and listening to dark synthwave 🎧.
-
-I’m also proud to say:  
-<strong>I can pivot through networks blindfolded (and center a div with CSS 😎).</strong>
-
-<br>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
-- 📫 Reach me at: <a href="mailto:chrono.redteam@proton.me">chrono.redteam@proton.me</a>  
-- 🔗 Portfolio (soon): <i>coming soon...</i>
-
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chrono-redteam" alt="chrono-redteam" />
-</p>
-
-</br>
-
-<b>Skills & Tools:</b><br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cybersecurity/cybersecurity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kali-linux/kali-linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tools/tools.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/metasploit/metasploit.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-
----
-
-### 📢 Find me elsewhere  
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrono-redteam&show_icons=true&theme=radical" />
-</p>
-</details>
-
-<br>
-
+<!-- ===== HERO HEADER ===== -->
 <div align="center">
-  ### Show some ❤️ by starring some of the repositories!
+  <img src="https://i.imgur.com/xC1xPWB.gif" width="100%" alt="Red Team Banner" />
+  <br/><br/>
+
+  <img height="60" alt="Chrono - Red Teamer" src="https://readme-typing-svg.herokuapp.com?size=28&color=FF003C&lines=Chrono+-+Red+Teamer;Offensive+Security+Engineer;Adversary+Simulation+Expert;Ethical+Hacker+%26+Pentester">
+  <br /><br />
+</div>
+
+<!-- ===== SOCIAL SECTION ===== -->
+<table width="100%" align="center">
+<tr>
+
+<td align="center">
+<a href="https://chrono-redteam.io">
+<strong><span style="color:#ff003c;">Visit my Red Team HQ</span></strong>
+<br/><br/>
+<p>
+<img alt="Globe" height="90" src="https://i.imgur.com/4M7IWwP.gif">
+</a>
+</p>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<strong><span style="color:#ff003c;">Hack While Listening</span></strong>
+<br/><br/>
+<p>
+<img height="100" alt="Music" src="https://i.imgur.com/UEhYxZj.gif"> 
+</a>
+</p>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== SKILLS ===== -->
+<div align="center">
+
+<img src="https://i.imgur.com/NZpRkX8.gif" width="140px"/>
+
+### <span style="color:#ff003c;">Red Team Arsenal</span>
+
+<code><img height="32" src="https://i.imgur.com/MuW4O5C.png"></code>
+<code><img height="32" src="https://i.imgur.com/Sa0C9qf.png"></code>
+<code><img height="32" src="https://i.imgur.com/FQUB1j5.png"></code>
+<code><img height="32" src="https://i.imgur.com/cC8iXWr.png"></code>
+<code><img height="32" src="https://i.imgur.com/jj5jG6R.png"></code>
+<code><img height="32" src="https://i.imgur.com/EQ1e5ZZ.png"></code>
+
+<p>Linux • Kali • Burp Suite • Nmap • BloodHound • Metasploit • OSINT • PrivEsc • Malware Dev • Post-Exploitation</p>
+
+</div>
+
+<br/><br/>
+
+<!-- ===== GUESTBOOK ===== -->
+<div align="center">
+<a href="#"><img src="https://i.imgur.com/Te7O4Xl.png" width="300"></a> 
+</div>
+
+| Name | Date | Message |
+|---|---|---|
+| <img width="24" src="https://i.imgur.com/AMYy3rD.png"/> GhostHunter | 12/6/2025 | System Breached 👾 |
+| <img width="24" src="https://i.imgur.com/dWHcywL.png"/> DarkVector | 11/18/2025 | Red team never sleeps 🔥 |
+| <img width="24" src="https://i.imgur.com/uQ6nZ2N.png"/> ZeroTrace | 11/10/2025 | Stealth mode engaged |
+| <img width="24" src="https://i.imgur.com/Y88kOJL.png"/> CipherWolf | 11/09/2025 | Clean profile mate |
+| <img width="24" src="https://i.imgur.com/S5yrxWb.png"/> Ne0nByte | 11/02/2025 | 🔴⚫ Cyberpunk vibes! |
+
+<br/>
+
+<!-- ===== FOOTER ===== -->
+<div align="center">
+
+<img height="120" width="100%" src="https://i.imgur.com/r44uj1F.gif" />
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/chrono-redteam/count.svg)
+
+<br/><br/>
+
+<img src="https://i.imgur.com/tV0H6oa.gif" alt="Hacked Terminal" height="40" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://i.imgur.com/oUTz0vL.gif" alt="Cyberwarfare" height="40" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://i.imgur.com/Y3FMChY.gif" alt="No Frames" height="40" />
+
 </div>
