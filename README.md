@@ -16,17 +16,14 @@
       <img height="40" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" 
       alt="Hackerrank" style="vertical-align:middle; margin:6px">
     </a>
-
     <a href="#">
       <img height="40" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" 
       alt="Codewars" style="vertical-align:middle; margin:6px">
     </a>
-
     <a href="#">
       <img height="40" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" 
       alt="LeetCode" style="vertical-align:middle; margin:6px">
     </a>
-
     <!-- HackMe Platform -->
     <a href="#">
       <img height="40" src="https://i.imgur.com/UDpTFgW.png" 
